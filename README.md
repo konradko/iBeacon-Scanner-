@@ -1,8 +1,13 @@
-SwitchDoc Labs, LLC
-June 2014
+# iBeacon-scanner
+Bluetooth LE (iBeacon) scanner for Raspberry Pi package
 
-blescanner is a python program designed to read iBeacon advertizments using a Bluetooth Dongle on a Raspberry Pi
 
-To test, "sudo python testblescanner.py"
+## Source
+[SwitchDoc Labs](https://github.com/switchdoclabs/iBeacon-Scanner-)
 
+
+## Installation
+To install the package:
+
+    $ pip install -e git+https://git@github.com/konradko/iBeacon-scanner.git@master#egg=ibeaconscanner
 
